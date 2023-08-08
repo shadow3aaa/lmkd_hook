@@ -1,0 +1,6 @@
+id=lmkd_hook
+name=LMKD HOOk
+version=v1
+versionCode=1
+author=shadow3
+description=Hook lmkd, 替换它调用的kill函数达到禁止lmkd杀死进程的效果
